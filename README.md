@@ -9,7 +9,7 @@ The objective of the project is to predict the captions for the input image. The
 
 # Libraries
 
-- numpy
+- numpy.
 - matplotlib
 - keras
 - tensorflow
