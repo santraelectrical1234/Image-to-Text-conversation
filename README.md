@@ -21,5 +21,5 @@ The objective of the project is to predict the captions for the input image. The
 - VGG16 Network
 - CNN-LSTM Network
   
-**BLEU-1 Score:** 0.527999
+**BLEU-1 Score:** 0.52799
 **BLEU-2 Score:** 0.298819
